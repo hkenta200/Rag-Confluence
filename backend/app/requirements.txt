@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+requests
+beautifulsoup4
+python-dotenv
+langchain>=0.0.300
+openai
+psycopg2-binary
+pgvector
+tqdm
+pydantic
